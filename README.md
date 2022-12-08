@@ -1,5 +1,5 @@
 
-# Instalação do Angular Spring no Browser
+# Instalação do Angular Spring
 
 ## Ir no site Angular instalation: https://angular.io/guide/setup-local
 
@@ -22,3 +22,8 @@ ng serve
 ![123](https://user-images.githubusercontent.com/101228590/206580649-d80d079d-e2c3-4464-a9f9-091543095d8b.png)
 
 ### e nela voce apenas coloca y para (yes) ou n para (not)
+
+# OBS:
+~~~
+Colocar o (y) ou o (n) é opicional
+~~~
