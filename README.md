@@ -22,14 +22,3 @@ ng serve
 ![123](https://user-images.githubusercontent.com/101228590/206580649-d80d079d-e2c3-4464-a9f9-091543095d8b.png)
 
 ### e nela voce apenas coloca y para (yes) ou n para (not)
-
-
-
-# Angular Spring
-~~~
-<p-tabView> ->
-
-</p-tabPanel> ->
-~~~
-
-![13154](https://user-images.githubusercontent.com/101228590/206581397-0260ebdf-b65a-47e2-9aa0-89e366b57995.png)
